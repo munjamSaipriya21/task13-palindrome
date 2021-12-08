@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+    height: 30vh;
+    background-color: rgb(160, 158, 31);
+    color: rgb(31, 96, 216);
+  }
+  
+  main {
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    height: 100%;
+  }
+  
+  p {
+    padding: 2rem;
+    text-align: left;
+    font-size: large;
+  }
